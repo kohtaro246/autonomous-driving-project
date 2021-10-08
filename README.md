@@ -22,6 +22,12 @@ Link to demo video:
 * yolo_v5: https://drive.google.com/file/d/1jeAnphTmON_XcgHdXIlqh8xIxFYj7Jho/view?usp=sharing
 
 
+# Credits
+* https://github.com/leggedrobotics/darknet_ros
+* https://ja.coursera.org/learn/intro-self-driving-cars
+* https://github.com/facebookresearch/detr
+* https://github.com/ultralytics/yolov5
+
 # Author
 
 * Kohtaro Tanaka
