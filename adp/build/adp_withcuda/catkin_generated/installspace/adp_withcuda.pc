@@ -1,0 +1,8 @@
+prefix=/home/adp/catkin_ws/install
+
+Name: adp_withcuda
+Description: Description of adp_withcuda
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

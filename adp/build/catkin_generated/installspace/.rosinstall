@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/adp/catkin_ws/install/setup.sh

@@ -1,0 +1,2 @@
+adp_cuda:adp_withcuda:cv3_bridge:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/adp/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adp/catkin_ws/install -G Unix Makefiles
